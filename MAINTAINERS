@@ -6,7 +6,10 @@ the parts they maintain, and in parallel they try their best to ensure these
 parts work well. Similarly, any change to these parts not being validated by
 them will be rejected.
 
-
+  
+  
+  
+  
 
 The best way to deal with such subsystems when sending patches is to send the
 patches to the mailing list and to CC these people. When no maintainer is
